@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Lesson-6</string>
+
+
+    <string name="drawer_item_settings">Настройки</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="info">Описание</string>
+    <string name="pictuares">Скриншот</string>
+    <string name="exit">Выход</string>
+    <string name="small_text">Маленький текст</string>
+    <string name="big_text">Большой текст</string>
+    <string name="text_toast">Страница на стадии разработки</string>
+    <string name="app_title">Список фильмов</string>
+
+</resources>
